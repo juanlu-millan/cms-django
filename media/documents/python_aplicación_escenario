@@ -1,0 +1,25 @@
+CMS Python
+
+- Django Packages
+
+- Crear entorno virtual
+
+pip install wagtail
+
+wagtail mysite_cms
+
+ls para ver el manage.py
+
+ver el wgsy.py
+
+el settings es un directorio ver 'base' que es el setting
+
+python manage.py
+
+create superuser
+
+/manege.py runserver 0.0.0.0:8080
+
+python3 manage.py dumpdata (Crea base de dato en json)
+
+python3  manage.py loaddata  (La pasa a mysql)
